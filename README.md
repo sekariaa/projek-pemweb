@@ -2,6 +2,8 @@
 
 This project serves as the final project for the Web Programming course. It includes PHP scripts and associated files for managing a system related to hospital management. The website contain The Hospital Correspondence Application is a simple application for managing incoming and outgoing letters at a hospital. This application has two main roles: Secretary and Employee.
 
+[Demo Website](https://drive.google.com/drive/u/1/folders/1_ceqgRVQzKgjyoj9edePRGfAdNrRyyUf).
+
 ## Key Features
 
 This application has several key features, including:
